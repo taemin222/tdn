@@ -1,0 +1,20 @@
+콘텐츠 구성 
+1목차
+2무슨일(js 자바스크립)  데이터연동
+3자료가 화면에 표시(db) 프로세스--웹작업순서   정책--무엇을 할것이냐
+와이어프레임 
+스토리모드-프로토타입 웨페이지 여백 화면이 다 달라서
+픽픽 캡처
+jdg git png- 손실압축(빨리빨리할라고)
+aI일러스트 레이트 (벡터 선 전용이필요하다 --비싸다,호환성이 떨어진다
+bmp 비압축=비손실압축--이미지가 커지면 용양도 비례해서 커진다
+-MS가만듬
+-윈도우 표준 이미지 파일
+1차 스토리 보드
+gif(다른사람사용)재가 따로해야하는  WORK번거로운 일이 없음  GIT HUB병합
+IOACK UP--저장소
+GIT INIT 동기화
+GIT ADD추가 README.MD 작업설명서
+GIT COMMIT-M 추가설명("FIRST COMMIT"~)MM-DD-NO
+GITBRANCH-M MAIN(이름)-C:/ -WORK -GIT WORK
+GIT REMOTE AADD ORIGIN 올릴거
