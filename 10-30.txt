@@ -1,0 +1,41 @@
+padding 내부 여백
+uppercase 소문자 대문자로 변경
+*=all
+.container=바디에들어갈 전체내용
+lilast-child= 맨 마지막 li
+. =클래스
+class
+html 여러가지 header중 하나class를부여
+ <header class="main-header">
+css에서꾸밀때
+.main-header{
+#= 아이디
+id 
+<p id="author">
+#author
+text-decoration: 취소선
+cursor 커서를 손가락을 바꾼
+border-top
+border-botton 
+padding
+width
+font-size
+font-style
+font-weight
+font-family
+position
+margin
+margin-top
+margin-bottom
+margin-left
+text-transform
+text-align
+text-align
+text-decoration
+line-height
+list-style
+cursor
+bottom
+right
+<em>=기울기
+<strong>=<b>

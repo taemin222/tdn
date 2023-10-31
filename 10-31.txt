@@ -1,0 +1,37 @@
+css
+
+border-box = 홈페이지 화면을 박스처리 할때
+letter-spacing 글자와 글자사이의 간격 -일수록 붙는다
+display: grid; = 화면안에 격자형태로 출력
+ grid-template-columns: repeat(3, 1fr) 칼람을 3개 만들어라
+column-gap 컬럼간의 사이 간격
+btn 버튼의 약어
+btn:hover 마우스 위에떠있을때
+visited 방문자일때 어떻게할꺼내
+display: inline-block; = 하나의 덩어리처럼 들어오는것
+.btn:hover 떠있을ㄷ대
+padding 박스안의 여백
+margin  박스밖의 여백
+margin-top 바깥여백의 위에
+margin-bottom 바깥 여백의 아래
+line-height줄간격
+visibility hidden; 숨겨저있을거다
+float배치
+box -sizing 박스스만들기
+font-family 글꼴지정
+color 글자색상
+border-bottom 아래쪽테두리
+border-radius 끝을 둥굴게
+border-bottom-left-radius border-bottom-right-radius 이미지 아래쪽 끝을 둥글게
+width너비
+font-size 글자크기
+font-weight 글자굵기
+background-color 배경색
+text-decoration 텍스트에 줄표시
+text-transform 대소문자변환  -uppercase모든글자 
+display 화면배치 --flex 자유롭게 열어서 작업
+align-self 텍스트 정렬
+list style 리스트순서
+stroke움직일때색상
+justify-content 정렬 --space-between 빈공간 똑같이 나눠라
+
